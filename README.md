@@ -1,6 +1,6 @@
 <h1 align="center">Conversor de moedas</h1>
 <h4>Status do projeto: :construction: Projeto em construção :construction:</h4>
-<p>Um projeto em java que converte moedas, com interatividade pelo terminal, onde o usuario pode para qual moeda o valor sera convertido</p>
+<p>Um conversor de moedas, com interatividade pelo terminal, onde o usuario pode escolher entre seis opções de moedas para converder e pode colocar o valor a ser convertido</p>
 <h4>Funcionalidades:</h4>
 <ol>
   <li>Passa o valor de real para dollar</li>
