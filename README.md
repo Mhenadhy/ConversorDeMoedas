@@ -15,4 +15,5 @@
   <li>Java</li>
   <li>IntelliJ IDEA</li>
   <li>Biblioteca gson</li>
+  <li>Exchange Rate API</li>
 </ul>
